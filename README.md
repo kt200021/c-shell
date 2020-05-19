@@ -3,6 +3,7 @@ C shell
 Run "make all" to create shell, run "./shell" to execute
 
 cd.c - cd command
+
 echo.c - echo command 
 execInput.c - external commands 
 globals.c - contains functions that are used across various files 
