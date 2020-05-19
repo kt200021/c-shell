@@ -1,0 +1,1 @@
+quit!emacs &!jobs!emacs!jobs!quit!emacs!jobs!!jobs!!!!quit!setenv 34!env!cat > ss.txt!cat ss.txt!firefox !quit!
