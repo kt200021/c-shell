@@ -2,7 +2,8 @@
 Built a shell for linux in C language with complete support for process management, piping and redirection, several built-in
 commands and execution of any system command .
 
-Run "make all" to create shell, run "./shell" to execute
+1)Run "make" to create shell
+2)run "./shell" to execute
 
 cd.c - cd command
 
